@@ -1,3 +1,3 @@
 # SE2017
-ege university software engineering project
-this project create by Mazlum Doğan Dolu
+<h2>ege university software engineering project.</h2> 
+This project create by Mazlum Doğan Dolu
